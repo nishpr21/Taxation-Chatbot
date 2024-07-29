@@ -1,0 +1,6 @@
+accelerate == 0.33.0
+bitsandbytes == 0.43.2
+transformers == 4.43.2
+gradio
+torch
+python-dotenv
